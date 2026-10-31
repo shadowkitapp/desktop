@@ -10,8 +10,8 @@ isn't here.
 
 ## Install on Ubuntu or Debian
 
-For Ubuntu 22.04 or newer and Debian 12, on x86-64, with GNOME or KDE. Windows and macOS come
-later.
+For Ubuntu 24.04 or newer and Debian 13, on x86-64, with GNOME or KDE (Keep awake needs GNOME for
+now). Windows and macOS come later.
 
 1. Download the `.deb` and `SHA256SUMS` from the [latest release](../../releases/latest).
 2. Check the download, in the folder you saved them to:

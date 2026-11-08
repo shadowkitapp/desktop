@@ -4,8 +4,9 @@ Shadowkit on your computer: **Data** for live network speed and every day's use,
 reminders and pins, **Focus** for a stretch of work and then a break, and **System** for the battery
 and the disks, kept day by day, and keeping the computer awake for a while. **Desktop** turns GNOME
 dark at sunset, keeps quiet hours and sets it up the way Windows or a Mac behaves, **Gems** are
-earned by focusing on enough days of a week, and the processor, memory or free space can sit in the top
-bar beside the speed. Offline, no account, free, and everything stays on your computer. More at [shadowkit.app/desktop](https://shadowkit.app/desktop).
+earned by focusing on enough days of a week, the processor, memory or free space can sit in the top
+bar beside the speed, and **Games** has six small ones for a few minutes while something else finishes,
+alone or two at one computer. Offline, no account, free, and everything stays on your computer. More at [shadowkit.app/desktop](https://shadowkit.app/desktop).
 
 This repository holds the releases only: the installers and their checksums. The app's source
 isn't here.
